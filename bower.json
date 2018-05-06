@@ -1,0 +1,9 @@
+{
+    "name": "zingus\/antisbatta",
+    "authors": [
+        "Beelab <info@bee-lab.net>",
+        "Zingus J. Rinkle <zingus@gmail.com>"
+    ],
+    "private": true,
+    "dependencies": {}
+}
