@@ -1,0 +1,25 @@
+{
+  "name": "antisbatta",
+  "version": "0.0.1",
+  "description": "Antisbatta is PHP CMS",
+  "main": "index.php",
+  "dependencies": {
+    "codemirror": "^5.37.0",
+    "medium": "^1.0.0",
+    "quill": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zingus/antisbatta.git"
+  },
+  "author": "Zingus J. Rinkle",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zingus/antisbatta/issues"
+  },
+  "homepage": "https://github.com/zingus/antisbatta#readme"
+}
